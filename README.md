@@ -1,4 +1,6 @@
 # An Analysis of Kickstarter Campaigns
+
+pertinent excel files for this project may be found in Kickstarter_challenge and Kickstarter_challenge 2 .xlsx files. ... had some errors when compiling all the data so my apologies for that. 
 ## Performing analysis on kickstarter data to uncover trends for Louise
 
 In this project, I was helping a playwright, "Louise", who wants to start a crowdfunding campaign to help fund her new play. In this project we used excel to organize, analyze, and sort a plethora of other crowdfunding data to determine for Louise if there are any specific factors which might make her projects campaign successful. These factors specifically analyzed were campaigns based on Launch Date and campaigns based on Funding Goal.
